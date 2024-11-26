@@ -1,13 +1,15 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "MinterEllison Applied Innovation",
+  "name": "Applied Innovation",
   "logo": {
+    "dark": "/logo/dark.svg",
     "light": "/logo/logo.PNG"
   },
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#930d36",
-    "light": "#930d3612",
+    "light": "#f4e6ea",
+    "dark": "#0D9373",
     "anchors": {
       "from": "#930d36",
       "to": "#930d36"
