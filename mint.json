@@ -1,18 +1,16 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "MinterEllison Applied Innovation",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.PNG"
   },
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#930d36",
     "light": "#930d3612",
-    "dark": "#0D9373",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#930d36",
+      "to": "#930d36"
     }
   },
   "topbarLinks": [
