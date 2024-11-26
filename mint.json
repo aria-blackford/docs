@@ -15,6 +15,10 @@
       "to": "#930d36"
     }
   },
+    "modeToggle": {
+    "default": "light",
+    "isHidden": true
+  },
   "topbarLinks": [
     {
       "name": "Support",
